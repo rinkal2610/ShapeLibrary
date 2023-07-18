@@ -1,0 +1,11 @@
+C:\DotNetTraining\Day7\ConAppShapes\ConAppShapes\obj\Debug\ConAppShapes.csproj.AssemblyReference.cache
+C:\DotNetTraining\Day7\ConAppShapes\ConAppShapes\obj\Debug\ConAppShapes.csproj.SuggestedBindingRedirects.cache
+C:\DotNetTraining\Day7\ConAppShapes\ConAppShapes\obj\Debug\ConAppShapes.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\Day7\ConAppShapes\ConAppShapes\bin\Debug\ConAppShapes.exe.config
+C:\DotNetTraining\Day7\ConAppShapes\ConAppShapes\bin\Debug\ConAppShapes.exe
+C:\DotNetTraining\Day7\ConAppShapes\ConAppShapes\bin\Debug\ConAppShapes.pdb
+C:\DotNetTraining\Day7\ConAppShapes\ConAppShapes\bin\Debug\AreaLib.dll
+C:\DotNetTraining\Day7\ConAppShapes\ConAppShapes\bin\Debug\AreaLib.pdb
+C:\DotNetTraining\Day7\ConAppShapes\ConAppShapes\obj\Debug\ConAppShapes.csproj.CopyComplete
+C:\DotNetTraining\Day7\ConAppShapes\ConAppShapes\obj\Debug\ConAppShapes.exe
+C:\DotNetTraining\Day7\ConAppShapes\ConAppShapes\obj\Debug\ConAppShapes.pdb
